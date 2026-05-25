@@ -50,7 +50,7 @@ export default function LandingPage() {
       background={{
         variant: "plain"}}
       title="Authentic Italian Elegance in Tunis"
-      description="Experience timeless Italian cuisine crafted with passion in an intimate, sophisticated setting. From handmade pasta to curated wine selections, every detail reflects our commitment to culinary excellence."
+      description="NOTICE: This demo has expired. Please contact Mouadh at Mourezlabs at 50421825 for a fully functional, custom-built site for your business."
       leftCarouselItems={[
         { imageSrc: "http://img.b2bpic.net/free-photo/vertical-shot-red-cafe-interior-with-tiled-walls_181624-59785.jpg" },
         { imageSrc: "http://img.b2bpic.net/free-photo/sliced-fish-with-cheese-glass-wine_140725-6341.jpg" }
@@ -59,7 +59,7 @@ export default function LandingPage() {
         { imageSrc: "http://img.b2bpic.net/free-photo/senior-couple-dancing-home_23-2149891557.jpg" },
         { imageSrc: "http://img.b2bpic.net/free-photo/elegant-dining-table-setting-with-candles-decorations_23-2152009915.jpg" }
       ]}
-      buttons={[{ text: "Reserve Your Table", href: "#contact" }]}
+      buttons={[{ text: "Contact Developer", href: "#contact" }]}
     />
   </div>
 
@@ -147,8 +147,8 @@ export default function LandingPage() {
       <ContactText
       useInvertedBackground={false}
       background={{ variant: "plain" }}
-      text="Ready to experience Rivoli? Contact Mouadh from Mourezlabs at 50421825. Reserve your table for an evening of authentic Italian excellence."
-      buttons={[{ text: "Book Now", href: "#" }]}
+      text="Demo period expired. Please contact Mouadh at Mourezlabs at 50421825 to secure your full license and launch your professional website today."
+      buttons={[{ text: "Contact Mouadh", href: "tel:+21650421825" }]}
     />
   </div>
 
